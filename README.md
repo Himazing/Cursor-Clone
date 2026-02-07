@@ -1,3 +1,4 @@
+## 📌 Assignment Overview
 # Dev Tool Landing Page – Cursor Clone
 
 **Web Dev Cohort 2026 – HTML & CSS Assignment**
@@ -20,14 +21,9 @@ Focus on **visual & structural accuracy**
 
 ## 📷 Screenshots
 
-> Screenshots of the final output can be found below (recommended for evaluation).
-
-## 📷 Screenshots
-
 ### Home Page
 ![Home Page](Screenshot/1.jpeg)
 
-### Features Section
 ![Features](Screenshot/2.jpeg)
 
 ### Footer Section
@@ -37,8 +33,39 @@ Focus on **visual & structural accuracy**
 
 The project is hosted using **Netlify** for easy access and evaluation.
 
-🔗 **Live Site:** https://himazing-cursor.netlify.app/
+🔗 **Live Site:** https://himazing-cursor.netlify.app
+
+## ▶️ How to Run the Project
+
+1. Clone the repository or download the files
+2. Open the `index.html` file
+3. Run it in any web browser
+
+```bash
+open index.html
+````
+
+(or double-click the file)
+
+---
+## 👤 Author
+
+**Himanshu Kumar**
+
+* LinkedIn: [https://www.linkedin.com/in/himazing](https://www.linkedin.com/in/himazing)
+* GitHub: [https://github.com/Himazing](https://github.com/Himazing)
+* Portfolio: [https://himanshu-portfolio-tau.vercel.app](https://himanshu-portfolio-tau.vercel.app)
+
+
+## 📜 License
+
+This project is created for **educational purposes only**.
+
+© 2026 Himanshu Kumar. All rights reserved.
 
 **Built with ❤️ as part of Web Dev Cohort 2026**
+
+**Built with ❤️ as part of Web Dev Cohort 2026**
+
 
 
